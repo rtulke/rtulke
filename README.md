@@ -14,8 +14,8 @@
 ---
 ## > Notable Projects
 
-[![SatIntel](https://github-readme-stats.vercel.app/api/pin/?username=ANG13T&repo=SatIntel&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ANG13T/SatIntel)
-[![DroneXtract](https://github-readme-stats.vercel.app/api/pin/?username=ANG13T&repo=DroneXtract&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ANG13T/DroneXtract)
+[![dynmotd](https://github-readme-stats.vercel.app/api/pin/?username=rtulke&repo=dynmotd&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/tulke/dynmotd)
+[![rp](https://github-readme-stats.vercel.app/api/pin/?username=rtulke&repo=rp&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/rtulke/rp)
 [![WiCon Kit](https://github-readme-stats.vercel.app/api/pin/?username=ANG13T&repo=ESP8266-WiCon-Kit&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ANG13T/ESP8266-WiCon-Kit)
 [![netspionage](https://github-readme-stats.vercel.app/api/pin/?username=ANG13T&repo=netspionage&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ANG13T/netspionage)
 
