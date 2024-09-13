@@ -7,8 +7,6 @@
 </p>
 -->
 
-
----
 ## <span style="color: blue !important;">&gt;</span> Skillset
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,raspberrypi,kali,python,bash,ansible,git,vue,c,cpp,javascript&perline=12)](https://skillicons.dev)
 
