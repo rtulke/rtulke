@@ -11,14 +11,14 @@
 ### OS
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,raspberrypi,apple,bsd,kali,mint,ubuntu&perline=20)](https://skillicons.dev)
 
-### Programming
-[![My Skills](https://skillicons.dev/icons?i=python,bash,c,cpp,devto,flask,git,github,gitlab,gherkin,html,jenkins,mongodb,postgres,py,react,regex,sqlite,selenium,swift,terraform,javascript&perline=20)](https://skillicons.dev)
+### Programming and Automation
+[![My Skills](https://skillicons.dev/icons?i=python,py,flask,bash,regex,c,cpp,swift,javascript,devto,git,github,gitlab,jenkins,selenium,gherkin,html,mongodb,postgres,sqlite,terraform,bots,docker,gherkin,jenkins,selenium,terraform,ansible&perline=20)](https://skillicons.dev)
 
 ### Editors
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim,md,obsidian&perline=20)](https://skillicons.dev)
 
 ### Automation
-[![My Skills](https://skillicons.dev/icons?i=bots,docker,gherkin,jenkins,selenium,terraform,ansible&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=&perline=20)](https://skillicons.dev)
 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mongodb&perline=20)](https://skillicons.dev)
