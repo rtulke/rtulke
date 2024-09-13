@@ -8,7 +8,11 @@
 -->
 
 ## <span style="color: blue !important;">&gt;</span> Skillset
+### OS
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,raspberrypi,kali,apple,bsd,mint,ubuntu,javascript&perline=20)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,raspberrypi,kali,apple,bsd,blender,devto,discord,bots,docker,flask,github,gitlab,gherkin,grafana,html,ai,instagram,jenkins,less,linkedin,md,mastodon,mint,ubuntu,mongodb,neovim,nginx,obsidian,postgres,prometheus,py,react,regex,sqlite,stackoverflow,selenium,svg,swift,terraform,twitter,vim,vscode,python,bash,ansible,git,vue,c,cpp,javascript&perline=20)](https://skillicons.dev)
+
 
 ---
 ## Notable Projects
