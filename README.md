@@ -9,7 +9,7 @@
 
 ---
 ## <span style="color: blue !important;">&gt;</span> Skillset
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,angular,golang,git,azure,react,vue,flutter,c,cpp,javascript,typescript,swift,rust,ruby,python,haskell,java,arch,bash,cs,git,kali&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,bash,linux,debian,git,cloutinit,vue,c,cpp,javascript,ruby,python,arch,bash,cs,kali&perline=12)](https://skillicons.dev)
 
 ---
 ## > Notable Projects
