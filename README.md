@@ -9,7 +9,7 @@
 
 ## <span style="color: blue !important;">&gt;</span> Skillset
 ### OS
-[![My Skills](https://skillicons.dev/icons?i=linux,debian,raspberrypi,kali,apple,bsd,mint,ubuntu,javascript&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,raspberrypi,kali,apple,bsd,mint,ubuntu&perline=20)](https://skillicons.dev)
 
 ### Programming
 [![My Skills](https://skillicons.dev/icons?i=python,bash,c,cpp,devto,flask,github,gitlab,gherkin,html,jenkins,mongodb,postgres,py,react,regex,sqlite,selenium,swift,terraform,python,bash,ansible,vue,c,cpp,javascript&perline=20)](https://skillicons.dev)
