@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,raspberrypi,kali,apple,bsd,mint,ubuntu&perline=20)](https://skillicons.dev)
 
 ### Programming
-[![My Skills](https://skillicons.dev/icons?i=python,bash,c,cpp,devto,flask,github,gitlab,gherkin,html,jenkins,mongodb,postgres,py,react,regex,sqlite,selenium,swift,terraform,python,bash,vue,c,cpp,javascript&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,bash,c,cpp,devto,flask,github,gitlab,gherkin,html,jenkins,mongodb,postgres,py,react,regex,sqlite,selenium,swift,terraform,javascript&perline=20)](https://skillicons.dev)
 
 ### Editors
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim,md,obsidian&perline=20)](https://skillicons.dev)
@@ -24,7 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,raspberrypi,kali,apple,bsd,blender,devto,discord,bots,docker,flask,github,gitlab,gherkin,grafana,html,ai,instagram,jenkins,less,linkedin,md,mastodon,mint,ubuntu,mongodb,neovim,nginx,obsidian,postgres,prometheus,py,react,regex,sqlite,stackoverflow,selenium,svg,swift,terraform,twitter,vim,vscode,python,bash,ansible,git,vue,c,cpp,javascript&perline=20)](https://skillicons.dev)
 
 ### Socialmedia
-[![My Skills](https://skillicons.dev/icons?i=linux,debian,raspberrypi,kali,apple,bsd,blender,devto,discord,bots,docker,flask,github,gitlab,gherkin,grafana,html,ai,instagram,jenkins,less,linkedin,md,mastodon,mint,ubuntu,mongodb,neovim,nginx,obsidian,postgres,prometheus,py,react,regex,sqlite,stackoverflow,selenium,svg,swift,terraform,twitter,vim,vscode,python,bash,ansible,git,vue,c,cpp,javascript&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,instagram,linkedin,mastodon,stackoverflow,twitter&perline=20)](https://skillicons.dev)
 
 ---
 ## Notable Projects
