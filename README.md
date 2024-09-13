@@ -11,14 +11,14 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,raspberrypi,kali,python,bash,ansible,git,vue,c,cpp,javascript&perline=12)](https://skillicons.dev)
 
 ---
-## > Notable Projects
+## Notable Projects
 
 [![dynmotd](https://github-readme-stats.vercel.app/api/pin/?username=rtulke&repo=dynmotd&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/tulke/dynmotd)
 [![rp](https://github-readme-stats.vercel.app/api/pin/?username=rtulke&repo=rp&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/rtulke/rp)
 [![WiCon Kit](https://github-readme-stats.vercel.app/api/pin/?username=ANG13T&repo=ESP8266-WiCon-Kit&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/ANG13T/ESP8266-WiCon-Kit)
 
 ---
-## > Support my Work
+## Support my Work
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/mirrle)
 [![Buy Me A Coffee](https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge)](https://buymeacoffee.com/rtulke)
 <details>
