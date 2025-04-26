@@ -1,16 +1,39 @@
-## Hi there 👋
-
-<!--
-**rtulke/rtulke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+---
+metadata:
+  name: Robert Tulke
+  country: Switzerland
+  email: rt@debian.sh
+specs:
+  job: DevSecOps engineer with an ambivalence towards hacking
+  summary: |
+    1998 started with linux as main os 
+    Linux Evangelist Debian GNU/Linux
+  msg:
+    - python3 -c "print (''.join(chr(int(''.join(i), 16)) for i in zip(*[iter('5254464d')]*2)))"
+    - h=5254464d; printf "%b\n" $(for i in 0 2 4 6; do printf "\\$(printf "%o" "0x${h:$i:2}")"; done)
+  language:
+    - German
+    - English
+    - Bash
+    - Python
+  passions:
+    - Black Terminals
+    - Linux Science
+    - Linux Forensics
+    - Linux Defence
+    - Linux Hardening
+    - Linux Security
+    - Linux Teaching
+    - Linux Sensors
+    - Linux Automation
+    - Linux Autohealing
+    - Linux Performance and Process Optimization
+    - Linux Architecture
+    - Python on Linux
+    - Infrastructure as Code
+network:
+  linkedin: https://www.linkedin.com/in/tulke/
+  github: https://github.com/rtulke
+...
+```
