@@ -6,7 +6,7 @@
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/mirrle)
 [![Cash App](https://img.shields.io/badge/CashApp-01D21C?style=for-the-badge&logo=cashapp&logoColor=white)](https://cash.app/$rtulke)
 [![Patreon](https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/tulke)
-[![Buy Me A Coffee](https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge)](https://buymeacoffee.com/rtulke)
+[![Buy Me A Coffee](https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=buymeacoffee)](https://buymeacoffee.com/rtulke)
 
 
 <details>
