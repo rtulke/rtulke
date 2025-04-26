@@ -1,3 +1,18 @@
+<summary>↕️ <bold>Cryptocurrency List</bold></summary>
+ <br />
+
+| Currency          | Wallet Address                                                                                               |
+|-------------------|--------------------------------------------------------------------------------------------------------------|
+| Bitcoin (BTC)     | bc1qqzsrdz8qa3xe2rp7aajrm88fqge9xxs3v8xu4h                                                                   |
+| Ethereum (ETH)    | 0x43edF701622F4F1174F322dC8D2f5AbdA642275a                                                                   |
+| XRP Ledger (XRP)  | rNKP3PXSstJnhUgUskNKaXWhd7ueiss6Mn                                                                           |
+| BNB               | bnb1t49kkmutyvnsc8xv7r5mu9tfu2u66qhcmqaurw                                                                   |
+| Monero (XMR)      | 4717EuNPoTrTQsiLdGSDAMAJQcze6mVuE8KmBhL9RFT43Xe2FsxWSQtc5trrfdYPS5aUjB8gJApwURcRmMFdccBCJPfeD8M              |
+| Solana (SOL)      | FcrRBcvWsqdVZpS9ZZ6Dt476QA1L95cdh7GqgUGX5RpH                                                                 |
+
+</details>
+
+
 ```YAML
 ---
 metadata:
