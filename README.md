@@ -46,12 +46,12 @@ specs:
     - Python on Linux
     - Infrastructure as Code
 projects: |
+  https://github.com/rtulke
   https://www.debian.org/consultants/mirrlelabs
   https://tulke.ch
 network: |
-  https://www.linkedin.com/in/tulke/
-  https://github.com/rtulke
   https://x.com/RobertTulke
+  https://www.linkedin.com/in/tulke/
   https://www.instagram.com/snoefjell
   https://www.instagram.com/snowkrates
   https://www.instagram.com/vxone_switzerland
