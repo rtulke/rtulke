@@ -36,9 +36,15 @@ specs:
     - Linux Architecture
     - Python on Linux
     - Infrastructure as Code
-network:
-  linkedin: https://www.linkedin.com/in/tulke/
-  github: https://github.com/rtulke
+network: |
+  https://www.linkedin.com/in/tulke/
+  https://github.com/rtulke
+  https://www.debian.org/consultants/mirrlelabs
+  https://tulke.ch
+donate: |
+  https://patreon.com/tulke
+  https://buymeacoffee.com/rtulke
+  https://paypal.me/mirrle
 ...
 ```
 </details>
