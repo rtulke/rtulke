@@ -1,3 +1,4 @@
+<details>
 <summary>↕️ <bold>Cryptocurrency List</bold></summary>
  <br />
 
