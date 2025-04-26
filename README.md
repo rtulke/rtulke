@@ -1,6 +1,6 @@
-- 🔭 I’m currently working on linux and macOS with linux defence related stuff
-- 💬 Ask me about Linux, specialy Debian GNU/Linux, Bash and such stuff like Linux Defence
-- 📫 rt@debian.sh
+ 🔭 I’m currently working on linux and macOS with linux defence related stuff
+ 💬 Ask me about Linux, specialy Debian GNU/Linux, Bash and such stuff like Linux Defence
+ 📫 rt@debian.sh
 
 ## Support my Work
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/mirrle)
