@@ -1,6 +1,6 @@
-🔭 I’m currently working on linux and macOS with linux defence related stuff
-💬 Ask me about Linux, specialy Debian GNU/Linux, Bash and such stuff like Linux Defence
-📫 How to reach me: rt@debian.sh
+- 🔭 I’m currently working on linux and macOS with linux defence related stuff
+- 💬 Ask me about Linux, specialy Debian GNU/Linux, Bash and such stuff like Linux Defence
+- 📫 How to reach me: rt@debian.sh
 
 <details>
  <summary>↕️ <bold>about.yaml</bold></summary>
