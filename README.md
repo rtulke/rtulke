@@ -7,7 +7,6 @@
 [![Patreon](https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/tulke)
 [![Buy Me A Coffee]([https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rtulke)
 
-
 <details>
  <summary>↕️ <bold>about.yaml</bold></summary>
  <br />
