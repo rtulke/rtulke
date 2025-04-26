@@ -49,14 +49,9 @@ projects: |
   https://github.com/rtulke
   https://www.debian.org/consultants/mirrlelabs
   https://tulke.ch
-network: |
+social: |
   https://x.com/RobertTulke
   https://www.linkedin.com/in/tulke/
-  https://www.instagram.com/snoefjell
-  https://www.instagram.com/snowkrates
-  https://www.instagram.com/vxone_switzerland
-  https://www.instagram.com/salty.bandits
-  https://www.instagram.com/smutjeahoi 
 donate: |
   https://patreon.com/tulke
   https://buymeacoffee.com/rtulke
