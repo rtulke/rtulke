@@ -1,18 +1,6 @@
 - 🔭 I’m currently working on linux and macOS with linux defence related stuff
 - 💬 Ask me about Linux, specialy Debian GNU/Linux, Bash and such stuff like Linux Defence
 - 📫 rt@debian.sh
-## GitHub Stats
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
-
-<!--
-https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
--->
-<a href="https://github.com/connor9994/GitHub-Language-Stats">
-<img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
 
 ## Support my Work
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/mirrle)
