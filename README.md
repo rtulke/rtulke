@@ -4,8 +4,12 @@
 
 ## Support my Work
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/mirrle)
-[![Patreon](https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/tulke)
 [![Buy Me A Coffee](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rtulke)
+
+<!-- This content will not appear in the rendered Markdown 
+[![Patreon](https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/tulke)
+-->
+
 
 <details>
  <summary>↕️ <bold>about.yaml</bold></summary>
