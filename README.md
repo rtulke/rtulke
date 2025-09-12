@@ -57,7 +57,6 @@ social: |
   https://x.com/RobertTulke
   https://www.linkedin.com/in/tulke/
 donate: |
-  https://patreon.com/tulke
   https://buymeacoffee.com/rtulke
   https://paypal.me/mirrle
 ...
