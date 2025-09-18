@@ -64,4 +64,6 @@ donate: |
 </details>
 
 [![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtulke)](https://github.com/rtulke/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtulke)](https://github.com/anuraghazra/github-readme-stats)
+
 
