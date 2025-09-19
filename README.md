@@ -6,6 +6,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rtulke&show_icons=true&theme=nord&hide=issues,roff&card_width=470)](#)
 
+[![Stats](https://nirzak-streak-stats.vercel.app/?user=rtulke&theme=nord&hide_border=true)](#)
+
+
 ## Support my Work
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/mirrle)
 [![Buy Me A Coffee](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rtulke)
