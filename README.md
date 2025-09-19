@@ -3,10 +3,10 @@
 - 📫 rt@debian.sh
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=rtulke&show_icons=true&theme=nord" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=rtulke&show_icons=true&theme=nord&hide=issues" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rtulke&layout=compact&langs_count=8&card_width=450&card_height=250&show_icons=true&theme=radical&hide=issues" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rtulke&layout=compact&langs_count=8&card_width=450&card_height=250&show_icons=true&theme=nord" />
 </a>
 
 ## Support my Work
