@@ -1,6 +1,6 @@
-* 🔭 I’m currently working on linux and macOS with linux defence related stuff
-* 💬 Ask me about Linux, specialy Debian GNU/Linux, Bash and such stuff like Linux Defence
-* 📫 rt@debian.sh
+- ↕️  🔭 I’m currently working on linux and macOS with linux defence related stuff
+- ↕️  💬 Ask me about Linux, specialy Debian GNU/Linux, Bash and such stuff like Linux Defence
+- ↕️  📫 rt@debian.sh
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=rtulke&show_icons=true&theme=nord&hide=issues,prs&card_width=470)](https://github.com/anuraghazra/github-readme-stats)
 
