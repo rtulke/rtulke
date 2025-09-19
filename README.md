@@ -6,7 +6,7 @@
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=rtulke&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rtulke&layout=compact&langs_count=8&card_width=450&card_height=250&show_icons=true&theme=radical" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rtulke&layout=compact&langs_count=8&card_width=450&card_height=250&show_icons=true&theme=radical&hide=issues,prs" />
 </a>
 
 ## Support my Work
