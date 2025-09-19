@@ -67,7 +67,7 @@ donate: |
 ```
 </details>
 
----
+----
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6e93b5)
 ![](https://img.shields.io/badge/OS-Debian-information?style=flat&logo=debian&logoColor=white&color=6e93b5)
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=6e93b5)
