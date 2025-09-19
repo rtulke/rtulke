@@ -2,6 +2,9 @@
 - 💬 Ask me about Linux, specialy Debian GNU/Linux, Bash and such stuff like Linux Defence
 - 📫 rt@debian.sh
 
+[![Meine GitHub-Stats](https://github-readme-stats.vercel.app/api?username=rtulke&show_icons=true&theme=transparent&locale=de)](https://github.com/anuraghazra/github-readme-stats)
+[![Top-Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=rtulke&layout=compact&langs_count=8&card_width=320&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Support my Work
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/mirrle)
 [![Buy Me A Coffee](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rtulke)
