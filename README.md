@@ -1,12 +1,12 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=rtulke&show_icons=true&theme=nord&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=rtulke&show_icons=true&theme=nord&hide=issues,prs&card_width=470)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on linux and macOS with linux defence related stuff
 - 💬 Ask me about Linux, specialy Debian GNU/Linux, Bash and such stuff like Linux Defence
 - 📫 rt@debian.sh
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rtulke&layout=donut-vertical&langs_count=8&show_icons=true&theme=nord&hide=issues,roff&card_width=465)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rtulke&layout=donut-vertical&langs_count=8&show_icons=true&theme=nord&hide=issues,roff&card_width=470)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Support my Work
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/mirrle)
