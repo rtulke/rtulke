@@ -3,7 +3,7 @@
 - 📫 rt@debian.sh
 
 <details>
- <summary>↕️ <bold>stats</bold></summary>
+- <summary>↕️ <bold>stats</bold></summary>
  <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=rtulke&show_icons=true&theme=nord&hide=issues,prs&card_width=470)](#)
