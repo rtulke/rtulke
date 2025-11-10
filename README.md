@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on linux and macOS with linux defence related stuff
+- 🔭 I’m currently working on linux and macOS with linux security and defence related stuff
 - 💬 Ask me about Linux, specialy Debian GNU/Linux, Bash and such stuff like Linux Defence
 - 📫 rt@debian.sh
 
