@@ -22,6 +22,7 @@ metadata:
   name: Robert Tulke
   country: Switzerland
   email: rt@debian.sh
+  youtube: TerminalBOB
 specs:
   job: DevSecOps engineer with an ambivalence towards hacking
   summary: |
@@ -53,7 +54,7 @@ specs:
 projects: |
   https://github.com/rtulke
   https://www.debian.org/consultants/mirrlelabs
-  https://tulke.ch
+  https://www.youtube.com/@TerminalBob
 social: |
   https://x.com/RobertTulke
   https://www.linkedin.com/in/tulke/
