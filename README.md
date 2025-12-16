@@ -83,6 +83,7 @@ donate: |
 ![](https://img.shields.io/badge/OS-Kali%20Linux-informational?style=flat&logo=kalilinux&logoColor=white&color=6e93b5)
 ![](https://img.shields.io/badge/OS-Raspberry%20PI-information?style=flat&logo=raspberrypi&logoColor=white&color=6e93b5)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6e93b5)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=6e93b5)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=6e93b5)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6e93b5)
 ![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=6e93b5)
