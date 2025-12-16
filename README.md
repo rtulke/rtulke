@@ -88,5 +88,5 @@ donate: |
 ![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=6e93b5)
 ![](https://img.shields.io/badge/Tools-Puppet-informational?style=flat&logo=puppet&logoColor=white&color=6e93b5)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6e93b5)
-![](https://img.shields.io/badge/Tools-ProxMox-informational?style=flat&logo=docker&logoColor=white&color=6e93b5)
+![](https://img.shields.io/badge/Tools-ProxMox-informational?style=flat&logo=proxmox&logoColor=white&color=6e93b5)
 
