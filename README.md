@@ -90,7 +90,7 @@ donate: |
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6e93b5)
 ![](https://img.shields.io/badge/Tools-ProxMox-informational?style=flat&logo=proxmox&logoColor=white&color=6e93b5)
 ![](https://img.shields.io/badge/AI-Claude-informational?style=flat&logo=claude&logoColor=white&color=6e93b5)
-![](https://img.shields.io/badge/AI-codex-informational?style=flat&logo=Codex&logoColor=white&color=6e93b5)
+![](https://img.shields.io/badge/AI-Codex-informational?style=flat&logo=Codex&logoColor=white&color=6e93b5)
 
 
 
