@@ -96,9 +96,11 @@ donate: |
 ![](https://img.shields.io/badge/Tools-Puppet-informational?style=flat&logo=puppet&logoColor=white&color=6e93b5)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6e93b5)
 ![](https://img.shields.io/badge/Tools-ProxMox-informational?style=flat&logo=proxmox&logoColor=white&color=6e93b5)
+<!-- DISABLED
 ![](https://img.shields.io/badge/AI-Claude-informational?style=flat&logo=claude&logoColor=white&color=6e93b5)
 ![](https://img.shields.io/badge/AI-ChatGPT-informational?style=flat&logo=chat-gpt&logoColor=white&color=6e93b5)
 ![](https://img.shields.io/badge/AI-Gemini-informational?style=flat&logo=googlegemini&logoColor=white&color=6e93b5)
+-->
 
 
 
