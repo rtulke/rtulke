@@ -29,7 +29,7 @@ specs:
     1998 started with linux as main os 
     Linux Evangelist Debian GNU/Linux
   msg:
-    - python3 -c "print (''.join(chr(int(''.join(i), 16)) for i in zip(*[iter('5254464d')]*2)))"
+    - python3 -c "print(''.join(chr(ord(c)^100) for c in '60\")'))"
     - h=5254464d; printf "%b\n" $(for i in 0 2 4 6; do printf "\\$(printf "%o" "0x${h:$i:2}")"; done)
   language:
     - German
