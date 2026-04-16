@@ -9,8 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rtulke&show_icons=true&theme=nord&hide=issues,roff&card_width=470)](#)
 
-[![Stats](https://nirzak-streak-stats.vercel.app/?user=rtulke&theme=nord&hide_border=true&card_width=470)](#)
-
 </details>
 
 <details> <summary>↕️ <bold>about.yaml</bold></summary>
