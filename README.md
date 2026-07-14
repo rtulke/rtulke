@@ -2,15 +2,6 @@
 - 💬 Ask me about Linux, specialy Debian GNU/Linux, Bash and such stuff like Linux Defence
 - 📫 rt@debian.sh
 
-<details> <summary>↕️ <bold>stats</bold></summary>
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=rtulke&show_icons=true&theme=nord&hide=issues,prs&card_width=470)](#)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rtulke&show_icons=true&theme=nord&hide=issues,roff&card_width=470)](#)
-
-</details>
-
 <details> <summary>↕️ <bold>about.yaml</bold></summary>
  <br />
 
