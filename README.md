@@ -11,6 +11,7 @@ metadata:
   name: Robert Tulke
   country: Switzerland
   email: rt@debian.sh
+  website: https://ttys0.sh/
   youtube: TerminalBOB
 specs:
   job: DevSecOps engineer with an ambivalence towards hacking
